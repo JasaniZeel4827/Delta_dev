@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Zeel/Documents/GitHub/deltacode/simple-portfolio/src/pages/_document.tsx"],"sourcesContent":["import { Html, Head, Main, NextScript } from \"next/document\";\n\nexport default function Document() {\n  return (\n    <Html lang=\"en\">\n      <Head />\n      <body>\n        <Main />\n        <NextScript />\n      </body>\n    </Html>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,qKAAC,yHAAA,CAAA,OAAI;QAAC,MAAK;;0BACT,qKAAC,yHAAA,CAAA,OAAI;;;;;0BACL,qKAAC;;kCACC,qKAAC,yHAAA,CAAA,OAAI;;;;;kCACL,qKAAC,yHAAA,CAAA,aAAU;;;;;;;;;;;;;;;;;AAInB"}},
+    {"offset": {"line": 96, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
